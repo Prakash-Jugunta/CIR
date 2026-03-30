@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# SQLite databases (if you want to ignore the persistence db)
+# However, for demo purposes you might want to initialize with a clean one
+bookings.db
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Streamlit config (optional, ignore if not needed globally)
+# .streamlit/
